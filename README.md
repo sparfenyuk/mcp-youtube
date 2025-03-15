@@ -19,6 +19,10 @@
 
 The server is a bridge between the Youtube API and the AI assistants and is based on the [Model Context Protocol](https://modelcontextprotocol.io).
 
+<a href="https://glama.ai/mcp/servers/gzrh7914k6">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/gzrh7914k6/badge" alt="Youtube Server MCP server" />
+</a>
+
 ## What is MCP?
 
 The Model Context Protocol (MCP) is a system that lets AI apps, like Claude Desktop, connect to external tools and data sources. It gives a clear and safe way for AI assistants to work with local services and APIs while keeping the user in control.
@@ -71,7 +75,6 @@ Configure Claude Desktop to recognize the Youtube MCP server.
         }
       }
     }
-
     ```
 
 ## Development
